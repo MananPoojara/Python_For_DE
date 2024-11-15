@@ -1,2 +1,2 @@
-[Python-Basics](./Py_basics.ipynb)
+[./Py_basics.ipynb]
 
